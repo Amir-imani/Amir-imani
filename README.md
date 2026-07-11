@@ -10,6 +10,8 @@
   <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
 </p>
 
+<a href="./Amirali_Imanipanah_CV.pdf" target="_blank"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME_PDF-8A2BE2?style=flat-square&logo=adobeacrobatreader&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 ---
 
 ## ⚡ MISSION CONTROL (About Me)
@@ -42,12 +44,18 @@
       <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Verilog-%23F06639.svg?style=flat-square" /><br/>
-      <img src="https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=flat-square" />
+      <img src="https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
     </td>
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/STM32-%2300356B.svg?style=flat-square&logo=stmicroelectronics&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/TouchGFX-%2300356B.svg?style=flat-square&logo=stmicroelectronics&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/FPGA_Design-%230055FF.svg?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/ESP32-%23E7352C.svg?style=flat-square&logo=espressif&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/RP2040-%23E3005C.svg?style=flat-square&logo=raspberrypi&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/AVR_MCU-%230055FF.svg?style=flat-square" /><br/>
+      <img src="https://img.shields.io/badge/Arduino-%2300979D.svg?style=flat-square&logo=arduino&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/Embedded_Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" />
     </td>
     <td align="center" valign="top">
@@ -58,7 +66,7 @@
     </td>
     <td align="center" valign="top">
       <img src="https://img.shields.io/badge/ROS2-%2322314E.svg?style=flat-square&logo=ros&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" /><br/>
+      <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&gradient" /><br/>
       <img src="https://img.shields.io/badge/Linux_CLI-%234EAA25.svg?style=flat-square&logo=gnulinux&logoColor=white" /><br/>
       <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
     </td>
