@@ -1,97 +1,120 @@
-# Hi there, I'm Amirali Imanipanah 👋
+# 🛠️ AMIRALI IMANIPANAH | HARDWARE & ROBOTICS CONTROL 🛠️
 
-<p align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&width=500&lines=Digital+Systems+%26+FPGA;Autonomous+Robotics+(ROS2);High-Speed+PCB+Design;Embedded+HMI+%26+Edge+AI" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00FFFF&center=true&v=2&width=600&lines=DEVELOPING+RAW+SILICON+SYSTEMS;AUTONOMOUS+ROBOTICS+(ROS2);HIGH-SPEED+PCB+DESIGN;EMBEDDED+HMI+%26+EDGE+AI" alt="Typing SVG" /></a>
 </p>
 
-<p align="left">
-  <a href="https://iocraft.ir" target="_blank"><img src="https://img.shields.io/badge/Portfolio-iocraft.ir-8A2BE2?style=for-the-badge&logo=opsgenie&logoColor=white" /></a>
-  <a href="mailto:amir.imanipanah@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=10&height=120&section=header&text=%20&fontSize=90" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://iocraft.ir" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-iocraft.ir-00FFFF?style=for-the-badge&logo=opsgenie&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:amir.imanipanah@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-FF00FF?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-### 🚀 About Me
-I am a final-year **Electrical Engineering** student passionate about the intersection of **Digital Systems**, **High-Speed Hardware**, and **Autonomous Robotics**. I build everything from pipelined hardware processors on FPGAs to production-grade embedded HMIs and AI-driven autonomous systems.
+## ⚡ MISSION CONTROL (About Me)
+
+> [!IMPORTANT]
+> **Final-year Electrical Engineering student** specializing in Digital Electronics, FPGA architectures, and Autonomous Systems. Building deterministic hardware environments and AI-driven control loops.
 
 - 🎓 **Education:** B.Sc. in Electrical Engineering - Electronics @ University of Isfahan (Expected July 2026)
 - 🏫 **Leadership:** 4x Teaching Assistant (Microcontrollers, Electronics I, Electric Circuits, C++)
-- ⚙️ **Engineering Philosophy:** Designing optimized, high-frequency, and deterministic hardware-software ecosystems.
+- ⚙️ **Core Focus:** Hardware-level acceleration, Edge AI, and real-time operating systems.
 
 ---
 
-### 🎯 Current Focus & Research Interests
-> "Moving execution from soft processors to dedicated, parallelized hardware pipelines."
+## 🛠️ EXPERTISE MATRIX (Tech Stack)
 
-- **Digital Systems:** Advanced FPGA-based acceleration, Embedded Linux tailoring, and SoC architectures.
-- **Robotics:** Autonomous Navigation via ROS2 (SLAM/Nav2) and hard real-time dynamic control loops.
-- **AI on Silicon:** Hardware-efficient Neural Networks and Edge AI on resource-constrained microcontrollers (TinyML).
-
----
-
-### 🛠️ Tech Stack & Tooling
-
-<table>
+<table width="100%">
   <tr>
-    <td align="center" width="25%"><strong>Languages</strong></td>
-    <td align="center" width="25%"><strong>Hardware & Embedded</strong></td>
-    <td align="center" width="25%"><strong>EDA & CAD Tools</strong></td>
-    <td align="center" width="25%"><strong>Robotics & Software</strong></td>
+    <td align="center" width="25%" bgcolor="#121212"><strong>LANGUAGES</strong></td>
+    <td align="center" width="25%" bgcolor="#121212"><strong>HARDWARE & EMBEDDED</strong></td>
+    <td align="center" width="25%" bgcolor="#121212"><strong>EDA & CAD TOOLS</strong></td>
+    <td align="center" width="25%" bgcolor="#121212"><strong>ROBOTICS & SOFTWARE</strong></td>
   </tr>
   <tr>
     <td align="left" valign="top">
-      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Verilog-%23F06639.svg?style=flat-square" /><br/>
-      <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=flat-square&logo=python&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=flat-square" />
+      • <b>C / C++</b><br/>
+      • <b>Verilog (HDL)</b><br/>
+      • <b>Python</b><br/>
+      • <b>MATLAB</b>
     </td>
     <td align="left" valign="top">
-      <img src="https://img.shields.io/badge/STM32%20%2F%20STM8-%2300356B.svg?style=flat-square&logo=stmicroelectronics&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/RP2040%20%2F%20AVR-%23E3005C.svg?style=flat-square&logo=raspberrypi&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/FPGA%20Design-%230055FF.svg?style=flat-square" /><br/>
-      <img src="https://img.shields.io/badge/ESP32%20%2F%20IoT-%23E7352C.svg?style=flat-square" /><br/>
-      <img src="https://img.shields.io/badge/Embedded%20Linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black" />
+      • STM32 / STM8<br/>
+      • FPGA Design<br/>
+      • RP2040 / AVR<br/>
+      • Embedded Linux
     </td>
     <td align="left" valign="top">
-      <img src="https://img.shields.io/badge/Altium%20Designer-%23A52A2A.svg?style=flat-square" /><br/>
-      <img src="https://img.shields.io/badge/KiCad-%231A2C5B.svg?style=flat-square&logo=kicad&logoColor=white" /><br/>
-      <img src="https://img.shields.io/square&SolidWorks-%23DC3545.svg?style=flat-square" /><br/>
-      <img src="https://img.shields.io/badge/Proteus%20%2F%20PSpice-%23007ACC.svg?style=flat-square" />
+      • Altium Designer<br/>
+      • KiCad<br/>
+      • SolidWorks<br/>
+      • Proteus / PSpice
     </td>
     <td align="left" valign="top">
-      <img src="https://img.shields.io/badge/ROS2-%2322314E.svg?style=flat-square&logo=ros&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=flat-square&logo=git&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/Linux%20CLI-%234EAA25.svg?style=flat-square&logo=gnulinux&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/HTML5%20%2F%20CSS3-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white" /><br/>
-      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black" />
+      • <b>ROS2 (SLAM/Nav2)</b><br/>
+      • Git & Linux CLI<br/>
+      • HTML5 / CSS3<br/>
+      • JavaScript (Node.js)
     </td>
   </tr>
 </table>
 
 ---
 
-### 🛠️ Featured Projects & Code Repositories
+## 📁 CORE REPOSITORIES (Click to Expand)
 
-#### 🤖 [Autonomous-ROS2-Robot](https://github.com/Amir-imani) 
-*Advanced ROS2 autonomous robot platform using Raspberry Pi 5 and custom power/control hardware.*
+<details>
+<summary><b>🤖 PROJECT 01: Autonomous Mobile Robot with AI-Optimized Control</b></summary>
+<br>
+<blockquote>
+  Advanced ROS2 autonomous robot platform powered by Raspberry Pi 5 and custom power/control hardware.
+</blockquote>
+
 - Implemented **SLAM** and **Nav2** frameworks alongside edge AI models for real-time localization and mapping.
 - Designed a custom **Neural Network-optimized PID controller** to bypass dynamic stability, slope, and friction errors.
 - Tailored custom power management and driver PCBs inside Altium Designer.
+<br>
+</details>
 
-#### 🎛️ [STM32F4-Graphical-HMI](https://github.com/Amir-imani)
-*Industrial-grade embedded controller and scientific computing core.*
+<details>
+<summary><b>🎛️ PROJECT 02: High-Performance STM32-Based Graphical HMI System</b></summary>
+<br>
+<blockquote>
+  Industrial-grade embedded controller and scientific computing core.
+</blockquote>
+
 - Leveraged an **STM32F407** MCU to drive a 40-pin TFT LCD screen and a capacitive touch panel.
 - Coded a raw mathematical firmware engine for real-time matrix transformations and complex graph plotting.
+<br>
+</details>
 
-#### ⚡ [FPGA-CORDIC-Processor](https://github.com/Amir-imani)
-*A pipelined hardware accelerator architecture implemented on FPGA.*
+<details>
+<summary><b>⚡ PROJECT 03: High-Frequency CORDIC Processor Core</b></summary>
+<br>
+<blockquote>
+  A pipelined hardware accelerator architecture implemented on FPGA.
+</blockquote>
+
 - Fully pipelined the CORDIC algorithm for lightning-fast trigonometric and vector math.
 - Achieved a validated maximum operating frequency of **115.399 MHz**.
+<br>
+</details>
+
+---
+
+## 🎮 GITHUB CAMPAIGN (My Contribution Grid)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Amir-imani/Amir-imani/output/github-contribution-grid-snake.svg" alt="GitHub Streak Snake" />
+</p>
 
 ---
 
 <p align="center">
-  <i>"Building at the intersection of raw silicon, deterministic control, and intelligent software."</i>
+  <sub><i>"Executing logic on bare metal where determinism meets innovation."</i></sub>
 </p>
