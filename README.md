@@ -8,9 +8,10 @@
   <a href="https://iocraft.ir" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-iocraft.ir-8A2BE2?style=flat-square&logo=opsgenie&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:amir.imanipanah@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-FF00FF?style=flat-square&logo=microsoftoutlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="./Amirali_Imanipanah_CV.pdf" target="_blank"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME_PDF-8A2BE2?style=flat-square&logo=adobeacrobatreader&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 </p>
 
-<a href="./Amirali_Imanipanah_CV.pdf" target="_blank"><img src="https://img.shields.io/badge/DOWNLOAD-RESUME_PDF-8A2BE2?style=flat-square&logo=adobeacrobatreader&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 ---
 
