@@ -10,14 +10,14 @@
   <a href="https://iocraft.ir"><img src="https://img.shields.io/badge/Portfolio-iocraft.ir-8A2BE2?style=for-the-badge&logo=opsgenie&logoColor=white" /></a>
   <a href="mailto:amir.imanipanah@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghvc/?username=Amir-imani&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
+  <img src="https://komarev.com/ghvc/?username=Amir-imani&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS&v=1" alt="Views" />
 </p>
 
 ---
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amir-imani&theme=tokyonight&margin-w=15&column=5" alt="github trophy" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amir-imani&theme=tokyonight&margin-w=15&column=5&v=1" alt="github trophy" /></a>
 </p>
 
 ---
@@ -95,12 +95,12 @@ I am a final-year **Electrical Engineering** student passionate about the inters
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amir-imani&show_icons=true&theme=tokyonight&count_private=true" alt="Amirali's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-imani&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Amir-imani&show_icons=true&theme=tokyonight&count_private=true&v=1" alt="Amirali's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-imani&layout=compact&theme=tokyonight&v=1" alt="Top Languages" height="180px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amir-imani&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amir-imani&theme=tokyonight&v=1" alt="GitHub Streak" />
 </p>
 
 ---
