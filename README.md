@@ -1,15 +1,11 @@
 # 🛠️ AMIRALI IMANIPANAH | HARDWARE & ROBOTICS CONTROL 🛠️
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00FFFF&center=true&v=2&width=600&lines=DEVELOPING+RAW+SILICON+SYSTEMS;AUTONOMOUS+ROBOTICS+(ROS2);HIGH-SPEED+PCB+DESIGN;EMBEDDED+HMI+%26+EDGE+AI" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&pause=1000&color=00FFFF&center=true&v=3&width=600&lines=DEVELOPING+RAW+SILICON+SYSTEMS;AUTONOMOUS+ROBOTICS+(ROS2);HIGH-SPEED+PCB+DESIGN;EMBEDDED+HMI+%26+EDGE+AI" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=10&height=120&section=header&text=%20&fontSize=90" width="100%" />
-</p>
-
-<p align="center">
-  <a href="https://iocraft.ir" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-iocraft.ir-00FFFF?style=for-the-badge&logo=opsgenie&logoColor=black" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://iocraft.ir" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-iocraft.ir-8A2BE2?style=for-the-badge&logo=opsgenie&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:amir.imanipanah@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-FF00FF?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://linkedin.com/in/yourprofile" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
@@ -37,29 +33,30 @@
     <td align="center" width="25%" bgcolor="#121212"><strong>ROBOTICS & SOFTWARE</strong></td>
   </tr>
   <tr>
-    <td align="left" valign="top">
-      • <b>C / C++</b><br/>
-      • <b>Verilog (HDL)</b><br/>
-      • <b>Python</b><br/>
-      • <b>MATLAB</b>
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Verilog-%23F06639.svg?style=for-the-badge" /><br/><br/>
+      <img src="https://img.shields.io/badge/MATLAB-%23ED1C24.svg?style=for-the-badge" />
     </td>
-    <td align="left" valign="top">
-      • STM32 / STM8<br/>
-      • FPGA Design<br/>
-      • RP2040 / AVR<br/>
-      • Embedded Linux
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/STM32-%2300356B.svg?style=for-the-badge&logo=stmicroelectronics&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/FPGA_Design-%230055FF.svg?style=for-the-badge" /><br/><br/>
+      <img src="https://img.shields.io/badge/RP2040-%23E3005C.svg?style=for-the-badge&logo=raspberrypi&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Embedded_Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" />
     </td>
-    <td align="left" valign="top">
-      • Altium Designer<br/>
-      • KiCad<br/>
-      • SolidWorks<br/>
-      • Proteus / PSpice
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/Altium-%23A52A2A.svg?style=for-the-badge" /><br/><br/>
+      <img src="https://img.shields.io/badge/KiCad-%231A2C5B.svg?style=for-the-badge&logo=kicad&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/SolidWorks-%23DC3545.svg?style=for-the-badge" /><br/><br/>
+      <img src="https://img.shields.io/badge/Proteus-%23007ACC.svg?style=for-the-badge" />
     </td>
-    <td align="left" valign="top">
-      • <b>ROS2 (SLAM/Nav2)</b><br/>
-      • Git & Linux CLI<br/>
-      • HTML5 / CSS3<br/>
-      • JavaScript (Node.js)
+    <td align="center" valign="top">
+      <img src="https://img.shields.io/badge/ROS2-%2322314E.svg?style=for-the-badge&logo=ros&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/Linux_CLI-%234EAA25.svg?style=for-the-badge&logo=gnulinux&logoColor=white" /><br/><br/>
+      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
     </td>
   </tr>
 </table>
