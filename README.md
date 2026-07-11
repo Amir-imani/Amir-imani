@@ -1,8 +1,23 @@
 # Hi there, I'm Amirali Imanipanah 👋
+
+<!-- افکت متحرک تایپ ترمینال -->
+<p align="left">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8A2BE2&width=500&lines=Digital+Systems+%26+FPGA;Autonomous+Robotics+(ROS2);High-Speed+PCB+Design;Embedded+HMI+%26+Edge+AI" alt="Typing SVG" /></a>
+</p>
+
+<!-- اطلاعات ارتباطی و شمارنده بازدید -->
 <p align="left">
   <a href="https://iocraft.ir"><img src="https://img.shields.io/badge/Portfolio-iocraft.ir-8A2BE2?style=for-the-badge&logo=opsgenie&logoColor=white" /></a>
-  <a href="mailto:amir.imanipanah@gmail.com"><img src="https://img.shields.io/badge/Email-amir.imanipanah@gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
+  <a href="mailto:amir.imanipanah@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghvc/?username=Amir-imani&color=8A2BE2&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Amir-imani&theme=tokyonight&margin-w=15&column=5" alt="github trophy" /></a>
 </p>
 
 ---
@@ -60,18 +75,18 @@ I am a final-year **Electrical Engineering** student passionate about the inters
 
 ### 🛠️ Featured Hardware & Robotics Projects
 
-#### 🤖 [Autonomous Mobile Robot with AI-Optimized Control](https://github.com/Amir-imani/your-repo)
-*Developed an advanced ROS2 autonomous robot powered by Raspberry Pi 5.*
+#### 🤖 Autonomous Mobile Robot with AI-Optimized Control
+*Advanced ROS2 autonomous robot powered by Raspberry Pi 5.*
 - Integrated **SLAM** and **Nav2** frameworks alongside edge AI models for real-time localization and mapping.
 - Designed a custom **Neural Network-optimized PID controller** to bypass dynamic stability, slope, and friction errors.
 - Tailored custom power management and driver PCBs inside Altium Designer.
 
-#### 🎛️ [High-Performance STM32-Based Graphical HMI System](https://github.com/Amir-imani/your-repo)
-*Built an industrial-grade embedded controller and scientific computing core.*
+#### 🎛️ High-Performance STM32-Based Graphical HMI System
+*Industrial-grade embedded controller and scientific computing core.*
 - Leveraged an **STM32F407** MCU to drive a 40-pin TFT LCD screen and a capacitive touch panel.
 - Coded a raw mathematical firmware engine for real-time matrix transformations and complex graph plotting.
 
-#### ⚡ [High-Frequency CORDIC Processor Core](https://github.com/Amir-imani/your-repo)
+#### ⚡ High-Frequency CORDIC Processor Core
 *A hardware accelerator architecture implemented on FPGA.*
 - Fully pipelined the CORDIC algorithm for lightning-fast trigonometric and vector math.
 - Achieved a validated maximum operating frequency of **115.399 MHz**.
