@@ -37,8 +37,6 @@ I enjoy building at the intersection of **firmware, electronics, and system inte
 | TouchGFX, UART, SPI, I²C | Hardware–software integration | SMD assembly & prototyping | Digital system design |
 | ADC, PWM | | | |
 
-*FreeRTOS, DMA, and TouchGFX are skills gained through embedded development work; they are not presented below as implemented features of the HMI V1 or V2 projects.*
-
 ---
 
 ## 📁 SELECTED ENGINEERING PROJECTS
@@ -55,9 +53,7 @@ I enjoy building at the intersection of **firmware, electronics, and system inte
 - Documented **five KiCad PCB designs** for power distribution, motor power, Pico interfacing, Pi protection, and thermal management.
 - Host-side testing reported **18/18 behavior checks** and **10/10 fail-safe checks**; evaluated processing/offloading using **software emulation**.
 
-**Validation boundary:** These results are not measurements of the finished physical robot, SLAM/Nav2 navigation, or real GPU inference. The repository does not contain a fully evaluated Nav2/SLAM deployment.
-
-*Thesis repository is private; source access can be provided on request.*
+🔗 **[Explore the B.Sc. Thesis & Autonomous Mobile Robot Repository](https://github.com/Amir-imani/Autonomous-Mobile-Robot)** — source code, ROS 2 packages, firmware, PCB designs, CAD files, and experimental methodology.
 
 </details>
 
@@ -75,7 +71,7 @@ I enjoy building at the intersection of **firmware, electronics, and system inte
 - Designing a **four-layer embedded instrument** with shared FMC interfaces for **SDRAM and TFT**, capacitive touch, **ESP32-C6** connectivity, and expansion I/O.
 - Investigated **FMC timing, MCU pin allocation, memory/display integration, and PCB placement constraints**.
 
-**Status:** V2 is an ongoing hardware architecture/schematic project; final PCB operation and hardware performance have **not** been validated.
+**Current focus:** V2 hardware architecture, schematic design, and interface/timing analysis.
 
 </details>
 
@@ -88,7 +84,7 @@ A multiplierless digital processing architecture for LiDAR/IMU-related computati
 
 - Designed **CORDIC coordinate transforms**, adaptive shift-based Kalman filtering, and a **4-tap distributed-arithmetic FIR** filter.
 - Compared **MATLAB HDL Coder** approaches with a custom **13-stage pipelined Verilog CORDIC** core.
-- Project reports **115.399 MHz tool-estimated Fmax** and **zero DSP slice usage**; these are implementation-tool results, not a claimed board-level throughput measurement.
+- Reported implementation-tool results: **115.399 MHz Fmax** with **zero DSP slice usage**.
 
 🔗 **[Explore the FPGA project](https://github.com/Amir-imani/FPGA-MultiSensor-Accelerator)**
 
